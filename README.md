@@ -1,2 +1,3 @@
 # datasciencecoursera
-Data Scientist Toolkit Course Project Repository
+Data Scientist Course Project Repository
+Keeps Course Assignments
