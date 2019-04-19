@@ -45,4 +45,4 @@ Step 10:
 Create a second tidy dataset from the file created in Step 10 that calculates the mean of each column in the file by subjectID, activityID and activityName.
 
 Step 11:
-Sort the file created in Step 11 by subjectID and activityID and write to a new .csv file for viewing and later use.
+Sort the file created in Step 11 by subjectID and activityID and write to a new .txt file for viewing and later use.
