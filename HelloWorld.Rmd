@@ -1,9 +1,0 @@
----
-title: "HelloWorld Markdown File"
-author: "Kim Holloway"
-date: "February 27, 2019"
-output: html_document
----
-
-## This is a markdown file
-
