@@ -56,4 +56,4 @@ newdata2 <- aggregate(. ~subjectID + activityID + activityName, newdata, mean)
 
 ## Step 11:  Sort and write newdata2 for viewing and later use
 newdata2 <- newdata2[order(newdata2$subjectID, newdata2$activityID),]
-write.table(newdata2, "newdata2.csv", row.name=FALSE)
+write.table(newdata2, "newdata2.txt", row.name=FALSE)
